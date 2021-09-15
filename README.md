@@ -1,0 +1,2 @@
+# My-xmrig
+for fun
